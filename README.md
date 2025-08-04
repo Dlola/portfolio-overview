@@ -1,12 +1,14 @@
 # DevOps & Cloud Engineering Portfolio
 
+> **📋 Main GitHub Profile**: [@Dlola](https://github.com/Dlola) - Complete tech stack, experience, and achievements
+
 ## 👨‍💻 About Me
 
-**Damilola Ijiwola** - Cloud DevOps Engineer with 4+ years of experience building scalable solutions with GCP, Kubernetes, Terraform, and AI/ML technologies. Currently working at GFT Financial deploying infrastructure for high-profile clients including HSBC, Zurich, and Deutsche Bank. Passionate about automation, AI/ML, and creative problem-solving. Based in London, UK.
+**Damilola Ijiwola** - Cloud DevOps Engineer with 4+ years of experience building scalable solutions with GCP, Kubernetes, Terraform, and AI/ML technologies. Experienced in deploying enterprise-grade infrastructure for financial services and technology companies. Passionate about automation, AI/ML, and creative problem-solving. Based in London, UK.
 
 ## 🚀 Featured Projects
 
-### 1. [GCP MLOps Pipeline](https://github.com/dlola/gcp-mlops-pipeline)
+### 1. [Enterprise MLOps Platform](https://github.com/dlola/enterprise-mlops-platform)
 **Enterprise-grade MLOps with Vertex AI**
 
 - **Technologies**: Vertex AI, Dataflow, Dataproc, BigQuery, Terraform, Terragrunt
@@ -17,7 +19,7 @@
   - Azure DevOps integration with automated deployments
   - Comprehensive monitoring and logging
 
-### 2. [GCP Project Factory](https://github.com/dlola/gcp-project-factory)
+### 2. [Infrastructure Automation Framework](https://github.com/dlola/infrastructure-automation-framework)
 **Self-service infrastructure automation**
 
 - **Technologies**: Terraform, Azure DevOps, GCP Project Management
@@ -28,7 +30,7 @@
   - Multi-tenant infrastructure with proper isolation
   - Compliance and security best practices
 
-### 3. [GCP FinOps Framework](https://github.com/dlola/gcp-finops-framework)
+### 3. [Cloud Cost Optimization Suite](https://github.com/dlola/cloud-cost-optimization-suite)
 **Cloud cost optimization and governance**
 
 - **Technologies**: GCP Billing API, Terraform, Monitoring
@@ -39,7 +41,7 @@
   - Budget controls and spending limits
   - Cost optimization recommendations
 
-### 4. [GCP Infrastructure Modules](https://github.com/dlola/gcp-infrastructure-modules)
+### 4. [Terraform Modules Library](https://github.com/dlola/terraform-modules-library)
 **Reusable infrastructure components**
 
 - **Technologies**: Terraform, Terragrunt, GCP Services
@@ -50,7 +52,7 @@
   - Security and compliance built-in
   - Comprehensive documentation and examples
 
-### 5. [GCP Utility Scripts](https://github.com/dlola/gcp-utility-scripts)
+### 5. [DevOps Automation Toolkit](https://github.com/dlola/devops-automation-toolkit)
 **DevOps automation and operational tools**
 
 - **Technologies**: Bash, PowerShell, GCP CLI, Azure DevOps API
@@ -61,7 +63,7 @@
   - Infrastructure deployment scripts
   - Cross-platform compatibility (Linux/Windows)
 
-### 6. [Azure DevOps Pipelines](https://github.com/dlola/azure-devops-pipelines)
+### 6. [CI/CD Pipeline Templates](https://github.com/dlola/cicd-pipeline-templates)
 **CI/CD pipeline templates and configurations**
 
 - **Technologies**: Azure DevOps, YAML, Terraform, Docker
@@ -72,7 +74,7 @@
   - Infrastructure as Code integration
   - Security and compliance pipelines
 
-### 7. [Docker ML Images](https://github.com/dlola/docker-ml-images)
+### 7. [ML Containerization Framework](https://github.com/dlola/ml-containerization-framework)
 **Containerization for machine learning workloads**
 
 - **Technologies**: Docker, Vertex AI, Python, ML frameworks
@@ -83,7 +85,7 @@
   - Security scanning and hardening
   - Vertex AI integration
 
-### 8. [GCP Terraform Modules](https://github.com/dlola/gcp-terraform-modules)
+### 8. [Terraform Modules Library](https://github.com/dlola/terraform-modules-library)
 **Infrastructure as Code best practices**
 
 - **Technologies**: Terraform, GCP, Terragrunt
@@ -166,7 +168,8 @@
 
 - **Email**: dami@dlola.dev
 - **LinkedIn**: [Damilola Ijiwola](https://linkedin.com/in/damilola-ijiwola)
-- **GitHub**: [@dlola](https://github.com/dlola)
+- **GitHub Profile**: [@Dlola](https://github.com/Dlola) - Main profile with tech stack & experience
+- **Portfolio Overview**: [@dlola/portfolio-overview](https://github.com/dlola/portfolio-overview) - This repository
 
 ---
 
