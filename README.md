@@ -6,6 +6,8 @@
 
 **Damilola Ijiwola** - Cloud DevOps Engineer with 4+ years of experience building scalable solutions with GCP, Kubernetes, Terraform, and AI/ML technologies. Experienced in deploying enterprise-grade infrastructure for financial services and technology companies. Passionate about automation, AI/ML, and creative problem-solving. Based in London, UK.
 
+**📧 Contact**: dami.ijiwola@gmail.com | **💼 LinkedIn**: [dami-ijiwola](https://www.linkedin.com/in/dami-ijiwola/)
+
 ## 🚀 Featured Projects
 
 ### 1. [Enterprise MLOps Platform](https://github.com/dlola/enterprise-mlops-platform)
@@ -160,14 +162,14 @@
 
 ## 🔗 Quick Links
 
-- [Resume/CV](link-to-your-resume)
-- [LinkedIn](link-to-your-linkedin)
-- [Blog/Technical Writing](link-to-your-blog)
+- [LinkedIn Profile](https://www.linkedin.com/in/dami-ijiwola/)
+- [GitHub Profile](https://github.com/Dlola)
+- [Email Contact](mailto:dami.ijiwola@gmail.com)
 
 ## 📞 Contact
 
-- **Email**: dami@dlola.dev
-- **LinkedIn**: [Damilola Ijiwola](https://linkedin.com/in/damilola-ijiwola)
+- **Email**: dami.ijiwola@gmail.com
+- **LinkedIn**: [Damilola Ijiwola](https://www.linkedin.com/in/dami-ijiwola/)
 - **GitHub Profile**: [@Dlola](https://github.com/Dlola) - Main profile with tech stack & experience
 - **Portfolio Overview**: [@dlola/portfolio-overview](https://github.com/dlola/portfolio-overview) - This repository
 
