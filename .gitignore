@@ -1,0 +1,69 @@
+# Personal information
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.csr
+service-account-*.json
+gcp-credentials.json
+azure-credentials.json
+.env
+.env.local
+.env.production
+.env.staging
+
+# Personal access tokens and credentials
+*.pat
+personal-access-token.txt
+azure-devops-token.txt
+
+# GCP credentials
+gcp-credentials/
+service-accounts/
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!angular.json
+!firebase.json
+
+# Logs
+*.log
+logs/
+debug-*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Personal notes and temporary files
+notes.txt
+todo.txt
+temp/
+tmp/
+personal/
+private/
+
+# Backup files
+*.bak
+*.backup
+*.old 
